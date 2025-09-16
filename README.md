@@ -1,1 +1,1 @@
-# AstroM
+Here’s a clear, reproducible path to redo all the calculations from this paper: DOI 10.1088/1674-4527/20/12/197 in Python, plus a ready-to-run notebook scaffold that already produces the six figure sets (qualitatively) and is wired so you can plug in the full network for quantitative agreement.
